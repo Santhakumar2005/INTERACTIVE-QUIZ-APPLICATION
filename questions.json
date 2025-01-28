@@ -1,0 +1,147 @@
+[
+    {
+        "question": "What does CPU stand for?",
+        "options": ["Central Processing Unit", "Central Programming Unit", "Computer Processing Unit", "Control Processing Unit"],
+        "correctAnswer": "Central Processing Unit"
+    },
+    {
+        "question": "Which data structure uses FIFO (First In First Out)?",
+        "options": ["Stack", "Queue", "Heap", "Tree"],
+        "correctAnswer": "Queue"
+    },
+    {
+        "question": "What is the smallest unit of data in a computer?",
+        "options": ["Bit", "Byte", "Kilobyte", "Megabyte"],
+        "correctAnswer": "Bit"
+    },
+    {
+        "question": "Which programming language is known as the backbone of web development?",
+        "options": ["Python", "JavaScript", "C++", "Java"],
+        "correctAnswer": "JavaScript"
+    },
+    {
+        "question": "What is the term for a network that covers a small geographic area, like a building?",
+        "options": ["LAN", "WAN", "MAN", "PAN"],
+        "correctAnswer": "LAN"
+    },
+    {
+        "question": "Which sorting algorithm has the best average-case time complexity?",
+        "options": ["Bubble Sort", "Quick Sort", "Merge Sort", "Insertion Sort"],
+        "correctAnswer": "Merge Sort"
+    },
+    {
+        "question": "What is the purpose of an operating system?",
+        "options": ["To compile code", "To manage hardware and software resources", "To connect to the internet", "To edit documents"],
+        "correctAnswer": "To manage hardware and software resources"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": ["HyperText Machine Language", "HighText Markup Language", "HyperText Markup Language", "HyperTool Markup Language"],
+        "correctAnswer": "HyperText Markup Language"
+    },
+    {
+        "question": "Which is not a type of database?",
+        "options": ["Relational", "Hierarchical", "Object-Oriented", "Procedural"],
+        "correctAnswer": "Procedural"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "options": ["HyperText Transfer Protocol", "HyperText Transmission Protocol", "HighText Transfer Protocol", "HighTool Transmission Protocol"],
+        "correctAnswer": "HyperText Transfer Protocol"
+    },
+    {
+        "question": "Which logic gate outputs true only if both inputs are true?",
+        "options": ["AND", "OR", "XOR", "NAND"],
+        "correctAnswer": "AND"
+    },
+    {
+        "question": "Which programming paradigm focuses on objects and data?",
+        "options": ["Procedural", "Functional", "Object-Oriented", "Declarative"],
+        "correctAnswer": "Object-Oriented"
+    },
+    {
+        "question": "What is the main memory of a computer called?",
+        "options": ["Hard Drive", "RAM", "Cache", "ROM"],
+        "correctAnswer": "RAM"
+    },
+    {
+        "question": "Which protocol is used to send emails?",
+        "options": ["HTTP", "SMTP", "FTP", "IMAP"],
+        "correctAnswer": "SMTP"
+    },
+    {
+        "question": "What does DNS stand for?",
+        "options": ["Domain Name System", "Data Network Service", "Digital Name Server", "Domain Network Service"],
+        "correctAnswer": "Domain Name System"
+    },
+    {
+        "question": "What does 'boolean' refer to in programming?",
+        "options": ["A type of variable", "A function", "True or false values", "A loop"],
+        "correctAnswer": "True or false values"
+    },
+    {
+        "question": "Which algorithm is commonly used for pathfinding?",
+        "options": ["Binary Search", "Dijkstra's Algorithm", "Merge Sort", "Breadth-First Search"],
+        "correctAnswer": "Dijkstra's Algorithm"
+    },
+    {
+        "question": "Which type of memory is non-volatile?",
+        "options": ["RAM", "Cache", "ROM", "Registers"],
+        "correctAnswer": "ROM"
+    },
+    {
+        "question": "Which layer of the OSI model deals with encryption and decryption?",
+        "options": ["Physical Layer", "Session Layer", "Presentation Layer", "Network Layer"],
+        "correctAnswer": "Presentation Layer"
+    },
+    {
+        "question": "Which company developed the Java programming language?",
+        "options": ["Microsoft", "Oracle", "Sun Microsystems", "Google"],
+        "correctAnswer": "Sun Microsystems"
+    },
+    {
+        "question": "What is the formula for the area of a circle?",
+        "options": ["πr^2", "2πr", "πd", "r^2"],
+        "correctAnswer": "πr^2"
+    },
+    {
+        "question": "What is the formula for calculating the mean (average) of a data set?",
+        "options": ["Sum of all values / Number of values", "Sum of squares of all values / Number of values", "Median of the values", "Most frequent value"],
+        "correctAnswer": "Sum of all values / Number of values"
+    },
+    {
+        "question": "What is the formula for calculating the standard deviation of a data set?",
+        "options": ["√(Σ(xi - μ)^2 / N)", "Σ(xi - μ)", "Σxi / N", "Σxi^2"],
+        "correctAnswer": "√(Σ(xi - μ)^2 / N)"
+    },
+    {
+        "question": "What is the quadratic formula?",
+        "options": ["x = (-b ± √(b² - 4ac)) / 2a", "x = (b ± √(b² - 4ac)) / 2a", "x = (-b ± √(b² + 4ac)) / 2a", "x = (b ± √(b² + 4ac)) / 2a"],
+        "correctAnswer": "x = (-b ± √(b² - 4ac)) / 2a"
+    },
+    {
+        "question": "What is the formula for calculating the volume of a sphere?",
+        "options": ["4/3πr³", "πr²h", "2πr²h", "πr³"],
+        "correctAnswer": "4/3πr³"
+    },
+    {
+        "question": "What is the formula for the area of a triangle?",
+        "options": ["1/2 × base × height", "base × height", "base² × height", "2 × base × height"],
+        "correctAnswer": "1/2 × base × height"
+    },
+    {
+        "question": "In a right triangle, what is the Pythagorean theorem?",
+        "options": ["a² + b² = c²", "a² + c² = b²", "b² + c² = a²", "a + b + c = 180°"],
+        "correctAnswer": "a² + b² = c²"
+    },
+    {
+        "question": "What is the formula for the area of a rectangle?",
+        "options": ["length × width", "2 × length + 2 × width", "length + width", "length × width × height"],
+        "correctAnswer": "length × width"
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle?",
+        "options": ["180°", "360°", "90°", "270°"],
+        "correctAnswer": "180°"
+    }
+]
